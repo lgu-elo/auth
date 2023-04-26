@@ -6,7 +6,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.15.2
 	github.com/golang/mock v1.6.0
 	github.com/jackc/pgx/v5 v5.3.1
-	github.com/lgu-elo/gateway v0.0.0-20230317063111-bae78182933d
+	github.com/lgu-elo/gateway v0.0.0-20230426212724-a67ab443afa0
 	github.com/pkg/errors v0.9.1
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.30.0
