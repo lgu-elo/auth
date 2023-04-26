@@ -157,3 +157,7 @@ time="26.04.2023 00:27:41" level=info msg="[core] [Server #1 ListenSocket #2] Li
 time="26.04.2023 00:28:03" level=info msg=admin
 time="26.04.2023 00:28:03" level=info msg=admin
 time="26.04.2023 00:28:05" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:28:03+03:00" grpc.time_ms=1310.965 peer.address="127.0.0.1:46078" span.kind=server system=grpc
+time="27.04.2023 01:21:44" level=info msg="[core] [Server #1] Server created" system=system
+time="27.04.2023 01:21:44" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="27.04.2023 01:22:17" level=info msg="[transport] transport: closing: EOF" system=system
+time="27.04.2023 01:22:17" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system

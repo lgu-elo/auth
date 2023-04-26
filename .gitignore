@@ -1,0 +1,8 @@
+# Temporary files
+tmp
+
+# Builds
+bin
+
+# Generated mocks
+mocks
