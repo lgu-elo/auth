@@ -1,0 +1,159 @@
+time="26.02.2023 23:57:40" level=info msg="[core] [Server #1] Server created" system=system
+time="26.02.2023 23:57:40" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="27.02.2023 01:20:18" level=info msg="[core] [Server #1] Server created" system=system
+time="27.02.2023 01:20:18" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="05.03.2023 19:55:30" level=info msg="[core] [Server #1] Server created" system=system
+time="05.03.2023 19:55:30" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="05.03.2023 19:56:40" level=info
+time="05.03.2023 19:56:40" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-05T19:56:40+03:00" grpc.time_ms=9.003 peer.address="127.0.0.1:58970" span.kind=server system=grpc
+time="05.03.2023 19:58:19" level=info msg="[transport] transport: closing: EOF" system=system
+time="05.03.2023 19:58:19" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="05.03.2023 20:03:15" level=info msg="[transport] transport: closing: EOF" system=system
+time="05.03.2023 20:03:15" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="05.03.2023 20:03:25" level=info msg="[transport] transport: closing: EOF" system=system
+time="05.03.2023 20:03:25" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="05.03.2023 20:04:00" level=info msg="[core] [Server #1] Server created" system=system
+time="05.03.2023 20:04:00" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="05.03.2023 20:43:35" level=info msg="[transport] transport: closing: EOF" system=system
+time="05.03.2023 20:43:35" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="09.03.2023 23:34:47" level=info msg="[core] [Server #1] Server created" system=system
+time="09.03.2023 23:34:47" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="09.03.2023 23:35:12" level=info msg="[transport] transport: closing: EOF" system=system
+time="09.03.2023 23:35:12" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="10.03.2023 01:04:55" level=info msg="[core] [Server #1] Server created" system=system
+time="10.03.2023 01:48:49" level=info msg="[core] [Server #1] Server created" system=system
+time="10.03.2023 01:48:49" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="10.03.2023 01:49:02" level=info
+time="10.03.2023 01:49:02" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-10T01:49:02+03:00" grpc.time_ms=15.844 peer.address="127.0.0.1:50254" span.kind=server system=grpc
+time="10.03.2023 01:51:04" level=info msg="[core] [Server #1] Server created" system=system
+time="10.03.2023 01:51:04" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="10.03.2023 01:51:17" level=info
+time="10.03.2023 01:51:17" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-10T01:51:17+03:00" grpc.time_ms=4.208 peer.address="127.0.0.1:60144" span.kind=server system=grpc
+time="10.03.2023 01:51:25" level=info
+time="10.03.2023 01:51:25" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-10T01:51:25+03:00" grpc.time_ms=0.572 peer.address="127.0.0.1:60144" span.kind=server system=grpc
+time="10.03.2023 01:51:26" level=info
+time="10.03.2023 01:51:26" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-10T01:51:26+03:00" grpc.time_ms=1.04 peer.address="127.0.0.1:60144" span.kind=server system=grpc
+time="10.03.2023 01:52:11" level=info
+time="10.03.2023 01:52:11" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-10T01:52:11+03:00" grpc.time_ms=0.717 peer.address="127.0.0.1:60144" span.kind=server system=grpc
+time="10.03.2023 01:52:12" level=info
+time="10.03.2023 01:52:12" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-10T01:52:12+03:00" grpc.time_ms=0.574 peer.address="127.0.0.1:60144" span.kind=server system=grpc
+time="10.03.2023 01:54:24" level=info msg="[core] [Server #1] Server created" system=system
+time="10.03.2023 01:54:24" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="10.03.2023 01:54:50" level=info msg="[transport] transport: closing: EOF" system=system
+time="10.03.2023 01:54:50" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="10.03.2023 01:55:13" level=info
+time="10.03.2023 01:55:13" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-10T01:55:13+03:00" grpc.time_ms=3.663 peer.address="127.0.0.1:46332" span.kind=server system=grpc
+time="10.03.2023 02:10:06" level=info msg="[transport] transport: closing: EOF" system=system
+time="10.03.2023 02:10:06" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="10.03.2023 02:27:14" level=info msg="[transport] transport: closing: EOF" system=system
+time="10.03.2023 02:27:14" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="10.03.2023 02:34:25" level=info msg="[transport] transport: closing: EOF" system=system
+time="10.03.2023 02:34:25" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:03:49" level=info msg="[core] [Server #1] Server created" system=system
+time="17.03.2023 01:03:49" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="17.03.2023 01:04:12" level=info
+time="17.03.2023 01:04:12" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:04:12+03:00" grpc.time_ms=24.539 peer.address="127.0.0.1:55080" span.kind=server system=grpc
+time="17.03.2023 01:04:36" level=info
+time="17.03.2023 01:04:38" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Register grpc.service=auth.Auth grpc.start_time="2023-03-17T01:04:36+03:00" grpc.time_ms=1319.03 peer.address="127.0.0.1:55080" span.kind=server system=grpc
+time="17.03.2023 01:04:44" level=info msg=login
+time="17.03.2023 01:04:44" level=info msg=login
+time="17.03.2023 01:04:45" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:04:44+03:00" grpc.time_ms=1309.69 peer.address="127.0.0.1:55080" span.kind=server system=grpc
+time="17.03.2023 01:05:26" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:05:26" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:05:35" level=info msg=login
+time="17.03.2023 01:05:35" level=info msg=login
+time="17.03.2023 01:05:36" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:05:35+03:00" grpc.time_ms=1314.855 peer.address="127.0.0.1:49026" span.kind=server system=grpc
+time="17.03.2023 01:06:02" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:06:02" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:06:08" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:06:08" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:06:27" level=info msg=login
+time="17.03.2023 01:06:27" level=info msg=login
+time="17.03.2023 01:06:28" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:06:27+03:00" grpc.time_ms=1310.359 peer.address="127.0.0.1:59704" span.kind=server system=grpc
+time="17.03.2023 01:07:41" level=info msg=login
+time="17.03.2023 01:07:41" level=info msg=login
+time="17.03.2023 01:07:42" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:07:41+03:00" grpc.time_ms=1307.947 peer.address="127.0.0.1:59704" span.kind=server system=grpc
+time="17.03.2023 01:09:53" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:09:53" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:10:28" level=info msg="[core] [Server #1] Server created" system=system
+time="17.03.2023 01:10:28" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="17.03.2023 01:11:41" level=info msg=login
+time="17.03.2023 01:11:41" level=info msg=login
+time="17.03.2023 01:11:42" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:11:41+03:00" grpc.time_ms=1322.411 peer.address="127.0.0.1:42790" span.kind=server system=grpc
+time="17.03.2023 01:18:55" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:18:55" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:19:16" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:19:16" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:19:35" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:19:35" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:19:56" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:19:56" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:20:08" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:20:08" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:20:22" level=info msg=login
+time="17.03.2023 01:20:22" level=info msg=login
+time="17.03.2023 01:20:24" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:20:22+03:00" grpc.time_ms=1309.873 peer.address="127.0.0.1:41208" span.kind=server system=grpc
+time="17.03.2023 01:20:56" level=info msg=login
+time="17.03.2023 01:20:56" level=info msg=login
+time="17.03.2023 01:20:57" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:20:56+03:00" grpc.time_ms=1312.895 peer.address="127.0.0.1:41208" span.kind=server system=grpc
+time="17.03.2023 01:22:48" level=info msg=login
+time="17.03.2023 01:22:48" level=info msg=login
+time="17.03.2023 01:22:49" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:22:48+03:00" grpc.time_ms=1318.343 peer.address="127.0.0.1:41208" span.kind=server system=grpc
+time="17.03.2023 01:28:40" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:28:40" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:28:49" level=info msg=login
+time="17.03.2023 01:28:49" level=info msg=login
+time="17.03.2023 01:28:50" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-03-17T01:28:49+03:00" grpc.time_ms=1309.863 peer.address="127.0.0.1:45930" span.kind=server system=grpc
+time="17.03.2023 01:29:11" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:29:11" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 01:31:13" level=info msg="[transport] transport: closing: EOF" system=system
+time="17.03.2023 01:31:13" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="17.03.2023 10:33:49" level=info msg="[core] [Server #1] Server created" system=system
+time="17.03.2023 10:33:49" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="25.04.2023 23:47:06" level=info msg="[core] [Server #1] Server created" system=system
+time="25.04.2023 23:49:32" level=info msg="[core] [Server #1] Server created" system=system
+time="25.04.2023 23:49:32" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="26.04.2023 00:03:53" level=info msg="[core] [Server #1] Server created" system=system
+time="26.04.2023 00:03:53" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="26.04.2023 00:09:41" level=info msg="[core] [Server #1] Server created" system=system
+time="26.04.2023 00:09:41" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="26.04.2023 00:10:05" level=info
+time="26.04.2023 00:10:06" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Register grpc.service=auth.Auth grpc.start_time="2023-04-26T00:10:05+03:00" grpc.time_ms=1326.708 peer.address="127.0.0.1:57644" span.kind=server system=grpc
+time="26.04.2023 00:13:52" level=info
+time="26.04.2023 00:13:52" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:13:52+03:00" grpc.time_ms=0.752 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:14:06" level=info
+time="26.04.2023 00:14:06" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:14:06+03:00" grpc.time_ms=0.439 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:14:29" level=info
+time="26.04.2023 00:14:29" level=error msg="finished unary call with code Unknown" error="user already exist" grpc.code=Unknown grpc.method=Register grpc.service=auth.Auth grpc.start_time="2023-04-26T00:14:29+03:00" grpc.time_ms=0.486 peer.address="127.0.0.1:57644" span.kind=server system=grpc
+time="26.04.2023 00:15:20" level=info
+time="26.04.2023 00:15:21" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Register grpc.service=auth.Auth grpc.start_time="2023-04-26T00:15:20+03:00" grpc.time_ms=1316.82 peer.address="127.0.0.1:57644" span.kind=server system=grpc
+time="26.04.2023 00:15:25" level=info
+time="26.04.2023 00:15:25" level=error msg="finished unary call with code Unknown" error="user doesn't exists" grpc.code=Unknown grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:15:25+03:00" grpc.time_ms=0.464 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:16:17" level=info
+time="26.04.2023 00:16:19" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Register grpc.service=auth.Auth grpc.start_time="2023-04-26T00:16:17+03:00" grpc.time_ms=1313.744 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:16:28" level=info msg=admin
+time="26.04.2023 00:16:28" level=info msg=admin
+time="26.04.2023 00:16:29" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:16:28+03:00" grpc.time_ms=1307.92 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:16:38" level=info msg=admin
+time="26.04.2023 00:16:38" level=info msg=admin
+time="26.04.2023 00:16:39" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:16:38+03:00" grpc.time_ms=1313.081 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:16:56" level=info msg=admin
+time="26.04.2023 00:16:56" level=info msg=admin
+time="26.04.2023 00:16:57" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:16:56+03:00" grpc.time_ms=1314.812 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:18:45" level=info msg=admin
+time="26.04.2023 00:18:45" level=info msg=admin
+time="26.04.2023 00:18:47" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:18:45+03:00" grpc.time_ms=1310.091 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:21:04" level=info msg=admin
+time="26.04.2023 00:21:04" level=info msg=admin
+time="26.04.2023 00:21:06" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:21:04+03:00" grpc.time_ms=1307.975 peer.address="127.0.0.1:46530" span.kind=server system=grpc
+time="26.04.2023 00:27:05" level=info msg="[transport] transport: closing: EOF" system=system
+time="26.04.2023 00:27:05" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="26.04.2023 00:27:05" level=info msg="[transport] transport: closing: EOF" system=system
+time="26.04.2023 00:27:05" level=info msg="[transport] transport: closing: EOF" system=system
+time="26.04.2023 00:27:05" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="26.04.2023 00:27:05" level=info msg="[transport] transport: loopyWriter exited. Closing connection. Err: transport closed by client" system=system
+time="26.04.2023 00:27:41" level=info msg="[core] [Server #1] Server created" system=system
+time="26.04.2023 00:27:41" level=info msg="[core] [Server #1 ListenSocket #2] ListenSocket created" system=system
+time="26.04.2023 00:28:03" level=info msg=admin
+time="26.04.2023 00:28:03" level=info msg=admin
+time="26.04.2023 00:28:05" level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Login grpc.service=auth.Auth grpc.start_time="2023-04-26T00:28:03+03:00" grpc.time_ms=1310.965 peer.address="127.0.0.1:46078" span.kind=server system=grpc

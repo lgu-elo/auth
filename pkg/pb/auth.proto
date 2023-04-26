@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option go_package = "./pkg/pb";
+
+package auth;
+
+service Auth {
+    // Generate JWT token by credentials
+    rpc Login(Credentials) returns (Token) {}
+    rpc Register(BasicCredentials) returns (Token) {}
+}
+
+// User credentials to authenticate
+message Credentials {
+    string username = 1;
+    string password = 2;
+}
+
+// User credentials to register
+message BasicCredentials {
+    string name = 1;
+    string username = 2;
+    string password = 3;
+    string role = 4;
+}
+
+
+message Token {
+    string token = 1;
+}

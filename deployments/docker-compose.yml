@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  db:
+    image: postgres:14.2-alpine
+    container_name: auth_db
+    restart: always
+    environment:
+      POSTGRES_USER: crmuser
+      POSTGRES_PASSWORD: 57g0cZCiLrhmE3Qh
+      POSTGRES_DB: auth
+    ports:
+      - 5430:5432
+    volumes:
+      - db-data:/var/lib/postgresql/data
+
+volumes:
+  db-data:
